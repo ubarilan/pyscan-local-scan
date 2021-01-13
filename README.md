@@ -3,7 +3,7 @@
 About pyscan:
 -------------
 Pyscan is a project created to help scan network devices, when the project is complete, there will be one tool with all of the features in one place.
-This project was created in collaboration with [https://github.com/asafsivan1](asafsivan1).
+This project was created in collaboration with https://github.com/asafsivan1.
 
 How to use this:
 ----------------
